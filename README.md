@@ -14,7 +14,7 @@
 🎨 Artist | 🩰 Ballet Enthusiast | 🎤 Model
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://photos.app.goo.gl/fNrtSQxQsjzU8unS6" />
+<img width="55%" align="right" alt="Github" src="https://github.com/nasrina081/images/blob/main/.github/workflows/Saron3.gif?raw=true" />
 
 - 🔭 Delving into the world of machine learning and crafting code with creativity.
 - 🌱 Embracing the beauty of learning, coding, and artistic expression.
