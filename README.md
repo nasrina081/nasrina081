@@ -21,7 +21,7 @@
 - 💬 Let's chat about coding, ballet, or painting!
 - 📫 How to reach me: nasrinali081@gmail.com;
 - 🎨 Peek at my artwork on [my art page](https://www.instagram.com/nasrinspalette/).
-- 📄 Know Check out my [resume](https://drive.google.com/file/d/1vDQGIfnBvKKdu9IBCih8pc_ppvG29SxL/view?usp=sharing)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1vDQGIfnBvKKdu9IBCih8pc_ppvG29SxL/view?usp=sharing)
 - ⚡ Fun fact: I've been modeling for three years and love ballet!
 
 <h3 align="left">Languages and Tools:</h3>
